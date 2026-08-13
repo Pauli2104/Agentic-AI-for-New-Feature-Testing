@@ -83,8 +83,8 @@ If you use or refer to this work, please cite it as:
 ```bibtex
 @misc{otano2026agentic,
   author = {Otano, Paula Soledad and Rodriguez Rivero, Cristian},
-  title = {Beyond Regression: Agentic AI as a Supervised Partner in New Feature Testing},
-  journal = {Quality Software Journal},
+  title = {When Tests Need Judgement: Agentic AI and the Future of New Feature Testing},
+  journal = {Software Quality Journal},
   year = {2026},
   note = {Manuscript}
 }
