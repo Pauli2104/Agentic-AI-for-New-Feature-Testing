@@ -1,6 +1,6 @@
-# Beyond Regression: Agentic AI as a Supervised Partner in New Feature Testing
+# When Tests Need Judgement: Agentic AI and the Future of New Feature Testing
 
-This repository contains the LaTeX source files for the paper **“Beyond Regression: Agentic AI as a Supervised Partner in New Feature Testing.”**
+This repository contains the LaTeX source files for the paper **“When Tests Need Judgement: Agentic AI and the Future of New Feature Testing”**
 
 The paper presents a conceptual framework for using agentic artificial intelligence in software quality assurance, with a specific focus on **new feature testing**. It argues that agentic AI should not be treated as a replacement for human testers or deterministic regression automation. Instead, it should be positioned as a **human-supervised exploratory testing partner** in contexts where requirements are evolving, expected outcomes are incomplete, and oracle validation requires human judgement.
 
